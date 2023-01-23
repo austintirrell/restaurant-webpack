@@ -1,0 +1,1 @@
+document.getElementById("content").appendChild(function(){const n=document.createElement("div");return n.innerHTML="Working",n}());
