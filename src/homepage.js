@@ -1,0 +1,5 @@
+function renderHomepage() {
+  
+}
+
+export { renderHomepage }
