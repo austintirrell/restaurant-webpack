@@ -1,7 +1,7 @@
 import { createElement } from "./DOM"
 
 function renderBase() {
-  const content = document.getElementById('content')
+  const container = document.getElementById('content')
 
   const header = createElement('header', null, null, content)
 
